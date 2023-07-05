@@ -8,8 +8,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philtisoni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=philtisoni&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-## My Favorites Languages
+## Hard Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Phil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,14 +18,13 @@
   <img align="center" alt="Phil-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Phil-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"">
 </div>
-  
-## Repositories
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=philtisoni&repo=Alura.Adopet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PhilTisoni/Alura.Adopet)  
 
-## Articles
+## Highlights
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=philtisoni&repo=Alura.Adopet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PhilTisoni/Alura.Adopet)  
+[![Adopet](https://github-readme-stats.vercel.app/api/pin/?username=philtisoni&repo=Alura.Adopet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PhilTisoni/Alura.Adopet)  [![My-Book-Library](https://github-readme-stats.vercel.app/api/pin/?username=philtisoni&repo=CodeRDIversity-My_Book_Library&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PhilTisoni/CodeRDIversity-My_Book_Library)
+[![Harry-Potter](https://github-readme-stats.vercel.app/api/pin/?username=philtisoni&repo=Arduino-Harry_Potter_Theme&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PhilTisoni/Arduino-Harry_Potter_Theme)  [![Lista-Tarefas](https://github-readme-stats.vercel.app/api/pin/?username=philtisoni&repo=CodeRDIversity-API_Lista_Tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PhilTisoni/CodeRDIversity-API_Lista_Tarefas.git) 
+
 
 ## Contact Me
  
