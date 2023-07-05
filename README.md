@@ -5,9 +5,11 @@
 - 💕 I love Music and Arduino too
 
 
-![Phelipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=philtisoni&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philtisoni&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philtisoni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=philtisoni&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+
+## My Favorites Languages
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Phil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,8 +20,15 @@
   <img align="center" alt="Phil-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"">
 </div>
   
-  
-  ##
+## Repositories
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=philtisoni&repo=Alura.Adopet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PhilTisoni/Alura.Adopet)  
+
+## Articles
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=philtisoni&repo=Alura.Adopet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PhilTisoni/Alura.Adopet)  
+
+## Contact Me
  
 <div> 
   <a href = mailto:phelipe.tisoni@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
